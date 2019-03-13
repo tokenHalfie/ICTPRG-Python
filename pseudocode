@@ -1,0 +1,8 @@
+program pin
+  while
+  print Enter Pin
+  input i
+  if i is equal to 1234
+    print Balance
+  else
+    print Try Again
